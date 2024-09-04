@@ -12,5 +12,5 @@ Abhimanyu can recharge his power b times.
 Some enemies (in circles 3 and 7) have the ability to regenerate once with half of their initial power.
 The algorithm checks if Abhimanyu can cross all the circles without his power dropping below the power of any enemy he encounters.
 
-Files
+
 Abhimanyu_Chakravyuha.cpp: The main C++ file that contains the algorithm and test cases.
